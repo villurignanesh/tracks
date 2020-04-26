@@ -79,3 +79,4 @@ for entry in all:
         ( name, album_id, length, rating, count ) )
 
     conn.commit()
+
